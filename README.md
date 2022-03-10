@@ -1,5 +1,7 @@
 # CalculatorApplication
 
+<img src="https://github.com/nikolst/CalculatorApplication/blob/master/Screenshot%202022-03-10%20at%2018.21.57.png" width="300" height="400">
+
 ## GUI :art:
 
 The interface consists of 20 buttons and two labels. 
